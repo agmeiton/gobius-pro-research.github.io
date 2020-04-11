@@ -4,9 +4,9 @@
 
 Do you want to make your own Gobius Pro (https://gobiuspro.com) application?
 
-<img src="https://www.gobiuspro.com/wp-content/uploads/2019/01/boxen-1gobiuspro-1.jpg" alt="Gobius Pro box" />
-
 We are in the beginning of May 2020 introducing a brand new service, where you can create your own Bluetooth application. You get access to a development kit, giving you every opportunity to build your own system. If you want to be one of the very first, send an email to info@gobiuspro.com.
+
+<img src="https://www.gobiuspro.com/wp-content/uploads/2019/01/boxen-1gobiuspro-1.jpg" alt="Gobius Pro box" width="200" />
 
 <img src="https://www.gobiuspro.com/wp-content/uploads/2018/08/a-revolution.png" alt="Gobius Pro" width="200" />
 
