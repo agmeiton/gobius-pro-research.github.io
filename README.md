@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to Gobius Pro Research
 
-You can use the [editor on GitHub](https://github.com/gobius-pro-research/gobius-pro-protocol/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Gobius Research
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Do you want to make your own Gobius Pro (https://gobiuspro.com) application?
 
-### Markdown
+<img src="https://www.gobiuspro.com/wp-content/uploads/2019/01/boxen-1gobiuspro-1.jpg" alt="Gobius Pro box" />
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are in the beginning of May 2020 introducing a brand new service, where you can create your own Bluetooth application. You get access to a development kit, giving you every opportunity to build your own system. If you want to be one of the very first, send an email to info@gobiuspro.com.
 
-```markdown
-Syntax highlighted code block
+<img src="https://www.gobiuspro.com/wp-content/uploads/2018/08/a-revolution.png" alt="Gobius Pro" width="200" />
 
-# Header 1
-## Header 2
-### Header 3
+### What is in the Gobius Pro Development Kit?
+- One Gobius Pro sensor
+- Printed protocol specification (latest version)
+- Bi-montly newsletters
 
-- Bulleted
-- List
+### More info about Gobius Pro
+* Gobius Pro site https://gobiuspro.com
+* Email us: info@gobiuspro.com
 
-1. Numbered
-2. List
+### Gobius Pro communication protocol specifications
+- 2020-04-11: TODO: link to PDF here..
+- 2020-01-10: TODO: link...
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gobius-pro-research/gobius-pro-protocol/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Support or contact
+info@gobiuspro.com
