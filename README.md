@@ -2,21 +2,28 @@
 
 ### Gobius Research
 
-Do you want to make your own Gobius Pro (https://gobiuspro.com) application?
+Do you want to make your own Gobius Pro (https://www.gobiuspro.com/research/) application?
 
-We are in the beginning of May 2020 introducing a brand new service, where you can create your own Bluetooth application. You get access to a development kit, giving you every opportunity to build your own system. If you want to be one of the very first, send an email to info@gobiuspro.com.
+We offer now a brand new service, where you can create your own BlE sensor application. You get access to a development kit, giving you every opportunity to build your own system.
 
 <img src="https://www.gobiuspro.com/wp-content/uploads/2019/01/boxen-1gobiuspro-1.jpg" alt="Gobius Pro box" width="200" />
 
 <img src="https://www.gobiuspro.com/wp-content/uploads/2018/08/a-revolution.png" alt="Gobius Pro" width="200" />
 
-### What is in the Gobius Pro Development Kit?
-- One Gobius Pro sensor
-- Printed protocol specification (latest version)
-- Bi-montly newsletters
+### What do I get in the Developement Kit?
+- One Gobius Pro sensor (firmware 2.1.1)
+- Exciter (inside the sensor)
+- Sensor-Bluetooth protocol 
+- Access to our developer site at Github
+- HW-test App, Android + iOS version
+- Contact App, saying “Hello”, with code
+- Temperature app, with code
+- Support, Q&A at GitHub
+- Membership, Gobius Pro Research Community
+- News letters
 
 ### More info about Gobius Pro
-* Gobius Pro site https://gobiuspro.com
+* Gobius Pro site https://www.gobiuspro.com/research/
 * Email us: info@gobiuspro.com
 
 ### Gobius Pro communication protocol specifications
