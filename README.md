@@ -13,7 +13,7 @@ We were in the beginning of May 2020 introducing a brand new service, where you 
 ### What is in the Gobius Pro Development Kit?
 - One Gobius Pro sensor, version 2.1.1
 - Printed protocol specification (latest version)
-- Spport, Q/A
+- Support, Q/A
 
 ### More info about Gobius Pro
 * Gobius Pro site https://gobiuspro.com
