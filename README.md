@@ -2,7 +2,7 @@
 
 ### Gobius Research
 
-Do you want to make your own Gobius Pro (https://gobiuspro.com) application?
+You can make your own Gobius Pro (https://gobiuspro.com) application
 
 We were in the beginning of May 2020 introducing a brand new service, where you can create your own Bluetooth application. You get access to a development kit, giving you every opportunity to build your own sensor system.
 
@@ -11,9 +11,15 @@ We were in the beginning of May 2020 introducing a brand new service, where you 
 <img src="https://www.gobiuspro.com/wp-content/uploads/2018/08/a-revolution.png" alt="Gobius Pro" width="200" />
 
 ### What is in the Gobius Pro Development Kit?
-- One Gobius Pro sensor, version 2.1.1
-- Printed protocol specification (latest version)
-- Support, Q/A
+- One Gobius Pro sensor, firmware version 2.1.1
+- Exciter (inside the sensor)
+- Sensor-Bluetooth protocol
+- HW-test App, Android + iOS version
+- Contact App, saying “Hello”, with code
+- Temperature app, with code
+- Access to our developer site at Github
+- Support, Q&A at GitHub
+- Membership, Gobius Pro Research Community
 
 ### More info about Gobius Pro
 * Gobius Pro site https://gobiuspro.com
