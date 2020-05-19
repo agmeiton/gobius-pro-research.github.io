@@ -10,7 +10,7 @@ We were in the beginning of May 2020 introducing a brand new service, where you 
 
 <img src="https://www.gobiuspro.com/wp-content/uploads/2018/08/a-revolution.png" alt="Gobius Pro" width="200" />
 
-### Gobius Pro Development Kit?
+### Gobius Pro Development Kit
 - One Gobius Pro sensor, firmware version 2.1.1
 - Exciter (inside the sensor)
 - Sensor-Bluetooth protocol
